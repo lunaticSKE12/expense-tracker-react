@@ -1,5 +1,5 @@
 {
-  "name": "expense-tracker-MERN",
+  "name": "expense-tracker-react",
   "version": "1.0.0",
   "description": "backend for expense tracker",
   "main": "server.js",
